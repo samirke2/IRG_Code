@@ -18,8 +18,8 @@ orientation = portrait
 fullscreen = 0
 
 # فعّلهما فقط بعد إضافة icon.png و presplash.png إلى المستودع
-#icon.filename = %(source.dir)s/icon.png
-#presplash.filename = %(source.dir)s/presplash.png
+icon.filename = %(source.dir)s/icon.png
+presplash.filename = %(source.dir)s/presplash.png
 presplash.color = #0E2623
 
 android.api = 33
